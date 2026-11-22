@@ -1,0 +1,5 @@
+.DS_Store
+.coach/
+__pycache__/
+*.pyc
+communication-coach.zip
